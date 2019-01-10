@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="18723" started-at="2018-11-30T10:03:05Z" finished-at="2018-11-30T10:03:23Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="18723" started-at="2018-11-30T10:03:05Z" finished-at="2018-11-30T10:03:23Z">
+      <class name="com.sgic.lms.qa.test.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sgic.lms.qa.test.LoginTest@3590fc5b]" name="setUp" is-config="true" duration-ms="2714" started-at="2018-11-30T10:03:05Z" finished-at="2018-11-30T10:03:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOrangeHRM()[pri:0, instance:com.sgic.lms.qa.test.LoginTest@3590fc5b]" name="testOrangeHRM" duration-ms="15091" started-at="2018-11-30T10:03:07Z" finished-at="2018-11-30T10:03:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrangeHRM -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sgic.lms.qa.test.LoginTest@3590fc5b]" name="tearDown" is-config="true" duration-ms="918" started-at="2018-11-30T10:03:22Z" finished-at="2018-11-30T10:03:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sgic.lms.qa.test.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

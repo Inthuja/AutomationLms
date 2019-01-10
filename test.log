@@ -1,0 +1,24 @@
+2018-12-04 16:37:08.026 [main] INFO  com.sgic.lms.qa.util.Log >> ********************************************
+2018-12-04 16:37:08.031 [main] INFO  com.sgic.lms.qa.util.Log >> ************** Start Test Case *************
+2018-12-04 16:37:08.031 [main] INFO  com.sgic.lms.qa.util.Log >> ********************************************
+2018-12-04 16:37:08.231 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Entered username **********
+2018-12-04 16:37:08.424 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Entered password **********
+2018-12-04 16:37:08.544 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Login button clicked **********
+2018-12-04 16:37:10.873 [main] INFO  com.sgic.lms.qa.util.Log >> ********************************************
+2018-12-04 16:37:10.873 [main] INFO  com.sgic.lms.qa.util.Log >> ************** Start Test Case *************
+2018-12-04 16:37:10.874 [main] INFO  com.sgic.lms.qa.util.Log >> ********************************************
+2018-12-04 16:37:11.058 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Entered username **********
+2018-12-04 16:37:11.265 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Entered password **********
+2018-12-04 16:37:11.372 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Login button clicked **********
+2018-12-04 16:37:13.701 [main] INFO  com.sgic.lms.qa.util.Log >> ********************************************
+2018-12-04 16:37:13.702 [main] INFO  com.sgic.lms.qa.util.Log >> ************** Start Test Case *************
+2018-12-04 16:37:13.703 [main] INFO  com.sgic.lms.qa.util.Log >> ********************************************
+2018-12-04 16:37:13.885 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Entered username **********
+2018-12-04 16:37:14.104 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Entered password **********
+2018-12-04 16:37:14.221 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Login button clicked **********
+2018-12-04 16:37:16.788 [main] INFO  com.sgic.lms.qa.util.Log >> ********************************************
+2018-12-04 16:37:16.789 [main] INFO  com.sgic.lms.qa.util.Log >> ************** Start Test Case *************
+2018-12-04 16:37:16.789 [main] INFO  com.sgic.lms.qa.util.Log >> ********************************************
+2018-12-04 16:37:16.992 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Entered username **********
+2018-12-04 16:37:17.187 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Entered password **********
+2018-12-04 16:37:17.280 [main] INFO  com.sgic.lms.qa.test.LoginTest >> ********* Login button clicked **********

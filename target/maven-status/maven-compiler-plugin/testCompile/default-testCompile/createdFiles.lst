@@ -1,0 +1,5 @@
+com\sgic\lms\qa\util\Log.class
+com\sgic\lms\qa\util\Functions.class
+com\sgic\lms\qa\util\DataStore.class
+com\sgic\lms\qa\test\BaseTest.class
+com\sgic\lms\qa\test\LoginTest.class
